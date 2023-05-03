@@ -1,0 +1,304 @@
+Uri: https://media.discordapp.net/attachments/1077602330901495819/1080532992398721034/image.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\attachments\1077602330901495819\1080532992398721034\image.png
+Content Type: image/png
+
+Uri: https://ori-prod.azureedge.net/wp-content/uploads/2021/08/logo_steam.svg
+File Name: C:\Downloaded Web Sites\tsurugihime.net\wp-content\uploads\2021\08\logo_steam.svg
+Content Type: image/svg+xml
+
+Uri: https://ori-prod.azureedge.net/wp-content/uploads/2021/08/ratingsymbol_e.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\wp-content\uploads\2021\08\ratingsymbol_e.png
+Content Type: image/png
+
+Uri: https://ori-prod.azureedge.net/wp-content/uploads/2021/08/rating_pegi_7.svg
+File Name: C:\Downloaded Web Sites\tsurugihime.net\wp-content\uploads\2021\08\rating_pegi_7.svg
+Content Type: image/svg+xml
+
+Uri: https://tsurugihime.net/
+File Name: C:\Downloaded Web Sites\tsurugihime.net\index.htm
+Content Type: text/html
+
+Uri: https://tsurugihime.net/css/main_0b841ae7.css
+File Name: C:\Downloaded Web Sites\tsurugihime.net\css\main_0b841ae7.css
+Content Type: text/css
+
+Uri: https://tsurugihime.net/download/Tsurugihime-BETA.zip
+File Name: C:\Downloaded Web Sites\tsurugihime.net\download\Tsurugihime-BETA.zip
+Content Type: application/zip
+
+Uri: https://tsurugihime.net/fonts/Candara_11cdc0ea.woff2
+File Name: C:\Downloaded Web Sites\tsurugihime.net\fonts\Candara_11cdc0ea.woff2
+Content Type: font/woff2
+
+Uri: https://tsurugihime.net/fonts/Candara_56344d98.woff
+File Name: C:\Downloaded Web Sites\tsurugihime.net\fonts\Candara_56344d98.woff
+Content Type: application/font-woff
+
+Uri: https://tsurugihime.net/fonts/MoolBoran_76696ef2.woff
+File Name: C:\Downloaded Web Sites\tsurugihime.net\fonts\MoolBoran_76696ef2.woff
+Content Type: application/font-woff
+
+Uri: https://tsurugihime.net/fonts/MoolBoran_937eeb33.woff2
+File Name: C:\Downloaded Web Sites\tsurugihime.net\fonts\MoolBoran_937eeb33.woff2
+Content Type: font/woff2
+
+Uri: https://tsurugihime.net/fonts/Neucha_f3fe6229.woff
+File Name: C:\Downloaded Web Sites\tsurugihime.net\fonts\Neucha_f3fe6229.woff
+Content Type: application/font-woff
+
+Uri: https://tsurugihime.net/fonts/Neucha_fabd961e.woff2
+File Name: C:\Downloaded Web Sites\tsurugihime.net\fonts\Neucha_fabd961e.woff2
+Content Type: font/woff2
+
+Uri: https://tsurugihime.net/fonts/SakkalMajalla_49184db2.woff
+File Name: C:\Downloaded Web Sites\tsurugihime.net\fonts\SakkalMajalla_49184db2.woff
+Content Type: application/font-woff
+
+Uri: https://tsurugihime.net/fonts/SakkalMajalla_d9676e57.woff2
+File Name: C:\Downloaded Web Sites\tsurugihime.net\fonts\SakkalMajalla_d9676e57.woff2
+Content Type: font/woff2
+
+Uri: https://tsurugihime.net/images/bg01_396eac06.jpg
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\bg01_396eac06.jpg
+Content Type: image/jpeg
+
+Uri: https://tsurugihime.net/images/bg01_m_80ee2a58.jpg
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\bg01_m_80ee2a58.jpg
+Content Type: image/jpeg
+
+Uri: https://tsurugihime.net/images/bg02_abfe62a1.jpg
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\bg02_abfe62a1.jpg
+Content Type: image/jpeg
+
+Uri: https://tsurugihime.net/images/bg02_m_ef9b30ba.jpg
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\bg02_m_ef9b30ba.jpg
+Content Type: image/jpeg
+
+Uri: https://tsurugihime.net/images/bg03_344f490f.jpg
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\bg03_344f490f.jpg
+Content Type: image/jpeg
+
+Uri: https://tsurugihime.net/images/bg03_m_1f301b7d.jpg
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\bg03_m_1f301b7d.jpg
+Content Type: image/jpeg
+
+Uri: https://tsurugihime.net/images/bg04_a4be7ac1.jpg
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\bg04_a4be7ac1.jpg
+Content Type: image/jpeg
+
+Uri: https://tsurugihime.net/images/bg04_m_21dedd4e.jpg
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\bg04_m_21dedd4e.jpg
+Content Type: image/jpeg
+
+Uri: https://tsurugihime.net/images/bg05_cdaacb45.jpg
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\bg05_cdaacb45.jpg
+Content Type: image/jpeg
+
+Uri: https://tsurugihime.net/images/bg05_m_000dcfbc.jpg
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\bg05_m_000dcfbc.jpg
+Content Type: image/jpeg
+
+Uri: https://tsurugihime.net/images/bg06_b9d2c380.jpg
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\bg06_b9d2c380.jpg
+Content Type: image/jpeg
+
+Uri: https://tsurugihime.net/images/bg06_m_38e152f6.jpg
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\bg06_m_38e152f6.jpg
+Content Type: image/jpeg
+
+Uri: https://tsurugihime.net/images/bg07_c99e3053.jpg
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\bg07_c99e3053.jpg
+Content Type: image/jpeg
+
+Uri: https://tsurugihime.net/images/bg07_m_e3d2a36a.jpg
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\bg07_m_e3d2a36a.jpg
+Content Type: image/jpeg
+
+Uri: https://tsurugihime.net/images/bg08_37af3418.jpg
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\bg08_37af3418.jpg
+Content Type: image/jpeg
+
+Uri: https://tsurugihime.net/images/bg08_md_d81fb2dc.jpg
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\bg08_md_d81fb2dc.jpg
+Content Type: image/jpeg
+
+Uri: https://tsurugihime.net/images/bg08_sm_dd2fda38.jpg
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\bg08_sm_dd2fda38.jpg
+Content Type: image/jpeg
+
+Uri: https://tsurugihime.net/images/bg08_xs_80532a86.jpg
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\bg08_xs_80532a86.jpg
+Content Type: image/jpeg
+
+Uri: https://tsurugihime.net/images/bg09_7d31fbe5.jpg
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\bg09_7d31fbe5.jpg
+Content Type: image/jpeg
+
+Uri: https://tsurugihime.net/images/bg09_m_1c350307.jpg
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\bg09_m_1c350307.jpg
+Content Type: image/jpeg
+
+Uri: https://tsurugihime.net/images/bg10_b3c15971.jpg
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\bg10_b3c15971.jpg
+Content Type: image/jpeg
+
+Uri: https://tsurugihime.net/images/bg10_m_e3f2fee4.jpg
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\bg10_m_e3f2fee4.jpg
+Content Type: image/jpeg
+
+Uri: https://tsurugihime.net/images/bkg-content-black_209fe757.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\bkg-content-black_209fe757.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/bkg-content-orange_eed3ee62.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\bkg-content-orange_eed3ee62.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/btn_youtube_red_25ec7877.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\btn_youtube_red_25ec7877.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/c01_118c71c5.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\c01_118c71c5.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/c02_83efddaa.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\c02_83efddaa.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/c02_m_84dcfd5e.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\c02_m_84dcfd5e.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/c03_d948a4de.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\c03_d948a4de.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/c03_m_52335ffe.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\c03_m_52335ffe.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/c09_a85cb04a.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\c09_a85cb04a.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/c09_m_41207653.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\c09_m_41207653.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/c_default_945a91ef.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\c_default_945a91ef.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/c_default_m_2b20c9dc.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\c_default_m_2b20c9dc.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/f01_2ca011d9.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\f01_2ca011d9.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/f01_m_0dac9a31.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\f01_m_0dac9a31.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/f02_bd204159.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\f02_bd204159.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/f02_m_c1211b45.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\f02_m_c1211b45.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/f03_ea74a12b.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\f03_ea74a12b.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/f03_m_c8f98d5c.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\f03_m_c8f98d5c.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/f04_76585cb8.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\f04_76585cb8.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/f04_m_eb52a0b3.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\f04_m_eb52a0b3.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/f05_499c5613.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\f05_499c5613.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/f05_m_ed0882e2.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\f05_m_ed0882e2.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/f06_f5de9b5b.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\f06_f5de9b5b.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/f06_m_fa8392ac.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\f06_m_fa8392ac.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/f07_ee65f598.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\f07_ee65f598.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/f07_m_8bb6a8c6.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\f07_m_8bb6a8c6.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/f08_5714c1a1.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\f08_5714c1a1.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/f08_m_1f692733.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\f08_m_1f692733.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/f09_99d9ca2e.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\f09_99d9ca2e.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/f09_m_18051c3d.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\f09_m_18051c3d.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/f10_cb295bd7.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\f10_cb295bd7.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/f10_m_d93a6989.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\f10_m_d93a6989.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/magnifier_06b3ad1e.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\magnifier_06b3ad1e.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/images/media-frame_440bce9c.png
+File Name: C:\Downloaded Web Sites\tsurugihime.net\images\media-frame_440bce9c.png
+Content Type: image/png
+
+Uri: https://tsurugihime.net/index.html
+File Name: C:\Downloaded Web Sites\tsurugihime.net\index.html
+Content Type: text/html
+
+Uri: https://tsurugihime.net/index_1.html
+File Name: C:\Downloaded Web Sites\tsurugihime.net\index_1.html
+Content Type: text/html
+
+Uri: https://tsurugihime.net/js/jquery-3.4.1.min.js
+File Name: C:\Downloaded Web Sites\tsurugihime.net\js\jquery-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://tsurugihime.net/js/main_0b841ae7.js
+File Name: C:\Downloaded Web Sites\tsurugihime.net\js\main_0b841ae7.js
+Content Type: application/javascript
+
+Uri: https://tsurugihime.net/js/wcp-consent.js
+File Name: C:\Downloaded Web Sites\tsurugihime.net\js\wcp-consent.js
+Content Type: application/javascript
+
